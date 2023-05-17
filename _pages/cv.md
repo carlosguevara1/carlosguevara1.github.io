@@ -45,6 +45,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include https://www.sciencedirect.com/science/article/pii/S1062940819304656 %}
   {% endfor %}</ul>
   
