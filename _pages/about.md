@@ -9,13 +9,22 @@ redirect_from:
 ---
 
 
+<head>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css">
+  <style>
+    body {
+      font-family: $serif;
+    }
+  </style>
+</head>
 
 
 
 
-I am economist currently employed as Research Assistant at the Inter-American Development Bank. 
+<p style="font-size: 20px;">I am economist currently employed as Research Assistant at the <a href="https://www.iadb.org/en/about-us/departments/res" target="_blank">Inter-American Development Bank</a>.</p>
 
-My research interest are macroeconomics, finance, and banking with emphasis in microdata and empirical methods.
+<p style="font-size: 20px;">My research interest are macroeconomics, finance, and banking with emphasis in microdata and empirical methods.</p>
 
-I obtained my BS from Pontificia Universidad Católica del Perú (PUCP)
+<p style="font-size: 20px;">I obtained my BS from <a href="https://www.pucp.edu.pe/carrera/economia/" target="_blank">Pontificia Universidad Católica del Perú (PUCP)</a>.</p>
+
 
