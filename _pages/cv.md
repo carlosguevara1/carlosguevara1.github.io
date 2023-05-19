@@ -23,10 +23,10 @@ redirect_from:
 
 <style>
   p {
-    line-height: 0.75;
+    line-height: 0.85;
   }
   .section2 {
-    line-height: 0.5;
+    line-height: 0.85;
   }
 </style>
 
@@ -49,16 +49,16 @@ B.S. in Economics, Pontificia Universidad Católica del Perú (PUCP), 2016
 
 
 # Skills
-* Matlab - Advanced
-* Stata - Advanced
-* Python - Advanced
-* Excel/VBA - Advanced
+* Matlab      - Advanced
+* Stata       - Advanced
+* Python      - Advanced
+* Excel/VBA   - Advanced
 * Eviews - Advanced
 * R - Intermediate
 * SQL - Intermediate
 * Julia - Basic
 * C++ - Basic
-{:.section2}
+<!---{:.section2}-->
 
 <!---
 <style>
