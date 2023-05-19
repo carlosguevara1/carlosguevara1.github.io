@@ -18,13 +18,31 @@ redirect_from:
   </style>
 </head>
 
+<style>
+  .customfont {
+    font-size: 20px  !important;
+  }
+</style>
 
 
 
-<p style="font-size: 20px;">I am economist currently employed as Research Assistant at the <a href="https://www.iadb.org/en/about-us/departments/res" target="_blank">Inter-American Development Bank</a>.</p>
+<p class="customfont">I am an economist currently employed as a Research Assistant at the <a href="https://www.iadb.org/en/about-us/departments/res" target="_blank">Inter-American Development Bank</a>.</p>
 
-<p style="font-size: 20px;">My research interest are macroeconomics, finance, and banking with emphasis in microdata and empirical methods.</p>
+<p class="customfont">My primary research interests embrace macroeconomics, finance, and banking. I specialize in utilizing microdata and empirical methods to explore new research questions in these fields.</p>
 
-<p style="font-size: 20px;">I obtained my BS from <a href="https://www.pucp.edu.pe/carrera/economia/" target="_blank">Pontificia Universidad Católica del Perú (PUCP)</a>.</p>
 
+<p class="customfont">I obtained my BS in Economics from the top university in Peru, the <a href="https://www.pucp.edu.pe/carrera/economia/" target="_blank">Pontificia Universidad Católica del Perú (PUCP)</a>.</p>
+
+<p class="customfont">Please write me to carlos.guek@gmail.com</p>
+
+
+<!---
+<p style="font-size: 20px;">I am a economist currently employed as Research Assistant at the <a href="https://www.iadb.org/en/about-us/departments/res" target="_blank">Inter-American Development Bank</a>.</p>
+
+My primary research interests embrace macroeconomics, finance, and banking. I specialize in utilizing microdata and empirical methods to explore new research questions in these fields.
+
+<p style="font-size: 20px;">My primary research interests embrace macroeconomics, finance, and banking. I specialize in utilizing microdata and empirical methods to explore new research questions in these fields.</p>
+
+<p style="font-size: 20px;">I obtained my BS in Economics from the top university in Peru, the  <a href="https://www.pucp.edu.pe/carrera/economia/" target="_blank">Pontificia Universidad Católica del Perú (PUCP)</a>.</p>
+-->
 

@@ -1,5 +1,5 @@
 /* ==========================================================================
-   MASTHEAD
+   MASTHEAD ACA CAMBIAS COSAS DEL NAVIGATOR
    ========================================================================== */
 
 .masthead {
@@ -45,9 +45,10 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-
+  font-size: $type-size-navigation-bar;
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+    font-size: $type-size-navigation-bar;   
   }
 }
