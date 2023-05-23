@@ -1,0 +1,30 @@
+# Econometric Packages
+
+<style>
+  body {
+    font-family: "Computer Modern Serif", Typewriter;
+  }
+
+  p {
+    line-height: 1.2;
+    margin-bottom: 10px !important; /* Space between paragraphs */
+  }
+
+  .container {
+    max-width: 800px; /* Adjust the width as needed */
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px; /* Adjust the left padding as needed */
+    padding-right: 10px; /* Adjust the right padding as needed */
+  }
+
+  
+## High Dimensional Econometrics
+
+This package is a collection of methods for estimation and quantification of uncertainty in high-dimensional approximately sparse models in Python.
+
+Authors: Alexader Quispe and Carlos Guevara.
+
+Based on: Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., & Newey, W. (2017). [Check here](https://www.aeaweb.org/articles?id=10.1257/aer.p20171038)
+
+Software: Python

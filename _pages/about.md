@@ -33,7 +33,7 @@ redirect_from:
 
 <p class="customfont">I obtained my BS in Economics from the top university in Peru, the <a href="https://www.pucp.edu.pe/carrera/economia/" target="_blank">Pontificia Universidad Católica del Perú (PUCP)</a>.</p>
 
-<p class="customfont">Please write me to carlos.guek@gmail.com</p>
+<p class="customfont">Please write me to <u>carlos.guek@gmail.com</u> to discuss about research and packages. </p>
 
 
 <!---

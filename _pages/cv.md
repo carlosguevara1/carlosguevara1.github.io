@@ -1,14 +1,7 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-{% include base_path %}
-
 
 <head>
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css">
@@ -30,7 +23,10 @@ redirect_from:
   }
 </style>
 
-<p style="font-size: 20px;">For a more detailed version, please download <a href='https://carlos-guevara-k.github.io/files/CV.pdf' target="_blank">here</a>.</p>
+
+# CV
+
+<p style="font-size: 1.2em;">For a more detailed version, please download <a href='https://carlos-guevara-k.github.io/files/CV.pdf' target="_blank">here</a>.</p>
 
 # Education
 B.S. in Economics, Pontificia Universidad Católica del Perú (PUCP), 2016

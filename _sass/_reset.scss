@@ -8,10 +8,10 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 14px; /* Ni mierda cambia */
+  font-size: $control-todo-largescreens; /* Ni mierda cambia */
 
   @include breakpoint($medium) {
-    font-size: $control-todo ; /* Esto controla todo no pega la variable $control-todo  */
+    font-size: $control-todo-largescreens ; /* Esto controla todo no pega la variable $control-todo  */
   }
 
   -webkit-text-size-adjust: 100%;
