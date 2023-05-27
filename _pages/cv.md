@@ -16,20 +16,24 @@ author_profile: true
 
 <style>
   p {
-    line-height: 0.85;
+    line-height: 0.5;
   }
   .section2 {
-    line-height: 0.85;
+    line-height: 0.5;
   }
+  * {
+        line-height: 1; /* Adjust the value as desired */
+    } 
 </style>
 
 
 # CV
 
-<p style="font-size: 1.2em;">For a more detailed version, please download <a href='https://carlos-guevara-k.github.io/files/CV.pdf' target="_blank">here</a>.</p>
+<p style="font-size: 1.05em;">For a more detailed version, please download <a href='https://carlosguevara1.github.io/files/CV.pdf' target="_blank">here</a>.</p>
 
 # Education
-B.S. in Economics, Pontificia Universidad Católica del Perú (PUCP), 2016
+* B.S. in Economics, *Summa Cum Laude*. Pontificia Universidad Católica del Perú (PUCP), 2016 
+* Master Economics (PUCP). Thesis pending. Expected: Dec-2023
 
 # Work experience
 * 2020-2023: Research Assistant at Inter-American Development Bank
@@ -38,22 +42,12 @@ B.S. in Economics, Pontificia Universidad Católica del Perú (PUCP), 2016
 * 2015: Research Assistant at Pontificia Universidad Católica del Perú
   
 # Publications
-## Journal publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+* The Role of Credit Supply Shocks in Pacific Alliance Countries: A TVP-VAR-SV Approach
+* A Quantitative Analysis of the Determinants of Fiscal Multiplers and Its Policy Implications
 
 # Skills
-* Matlab      - Advanced
-* Stata       - Advanced
-* Python      - Advanced
-* Excel/VBA   - Advanced
-* Eviews - Advanced
-* R - Intermediate
-* SQL - Intermediate
-* Julia - Basic
-* C++ - Basic
+<p>Stata | Python | Matlab | R | Eviews | Excel-VBA | SQL | C++ .</p>
+
 <!---{:.section2}-->
 
 <!---
