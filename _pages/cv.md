@@ -32,7 +32,7 @@ author_profile: true
 <p style="font-size: 1.05em;">For a more detailed version, please download <a href='https://carlosguevara1.github.io/files/CV.pdf' target="_blank">here</a>.</p>
 
 # Education
-* B.S. in Economics, *Summa Cum Laude*. Pontificia Universidad Católica del Perú (PUCP), 2016 
+* B.S. in Economics. Pontificia Universidad Católica del Perú (PUCP), 2016 
 * Master Economics (PUCP). Thesis pending. Expected: Dec-2023
 
 # Work experience
