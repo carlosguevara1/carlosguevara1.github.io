@@ -41,9 +41,11 @@ author_profile: true
 * 2016-2017: Consultant at Peruvian Institute of Economics
 * 2015: Research Assistant at Pontificia Universidad Católica del Perú
   
-# Publications
+# Research
 * The Role of Credit Supply Shocks in Pacific Alliance Countries: A TVP-VAR-SV Approach
 * A Quantitative Analysis of the Determinants of Fiscal Multiplers and Its Policy Implications
+* Monetary Policy Interest Rate and Financial Stability: Empirical Evidence for CARD countries
+
 
 # Skills
 <p>Stata | Python | Matlab | R | Eviews | Excel-VBA | SQL | C++ .</p>

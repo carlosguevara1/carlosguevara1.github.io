@@ -40,7 +40,7 @@ h1  {
 ## High Dimensional Econometrics [In progress]
 <p>This package is a collection of methods for estimation and quantification of uncertainty in high-dimensional approximately sparse models in Python.</p>
 <p>Authors: <a href="https://alexanderquispe.github.io/" target="_blank">Alexander Quispe</a> & <a href="https://carlosguevara1.github.io/" target="_blank">Carlos Guevara</a>.</p>
-<p>Source: Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., & Newey, W. (2017). <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171038" target="_blank">[Check here]</a></p>
+<p>Source: Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., & Newey, W. (2017). Double/debiased/neyman machine learning of treatment effects. American Economic Review, 107(5), 261-265. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171038" target="_blank">[Check here]</a></p>
 <br>
 
 
