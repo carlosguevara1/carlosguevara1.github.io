@@ -36,7 +36,7 @@ author_profile: true
 * Master Economics (PUCP). Thesis pending. Expected: Dec-2023
 
 # Work experience
-* 2020-2023: Research Assistant at Inter-American Development Bank
+* 2020-2023: Consultant at Inter-American Development Bank
 * 2019-2020: Data Analyst at Central Bank of Peru
 * 2016-2017: Consultant at Peruvian Institute of Economics
 * 2015: Research Assistant at Pontificia Universidad Católica del Perú

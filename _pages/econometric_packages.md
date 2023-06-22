@@ -37,15 +37,16 @@ h1  {
 
 # Econometric Packages
 
-## High Dimensional Econometrics [In progress]
+<h2><a href="https://github.com/d2cml-ai/csdid" target="_blank"> Difference in difference with multiple time periods</a> </h2>
+<p>This package implements the estimator of Difference-in-Differences with multiple time periods proposed by Callaway and Sant'Anna (2021) in Python.</p>
+<p>Authors: <a href="https://alexanderquispe.github.io/" target="_blank">Alexander Quispe</a> & <a href="https://carlosguevara1.github.io/" target="_blank">Carlos Guevara</a> in collaboration with  <a href="https://psantanna.com/" target="_blank">Pedro Sant'Anna</a> and <a href="https://bcallaway11.github.io/index.html" target="_blank">Brantly Callaway</a></p>
+<p>Source: Callaway, B., & Sant’Anna, P. H. (2021). Difference-in-differences with multiple time periods. Journal of Econometrics, 225(2), 200-230. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407620303948" target="_blank">[Check here]</a></p>
+<br>
+
+## High dimensional uncertainty [In progress]
 <p>This package is a collection of methods for estimation and quantification of uncertainty in high-dimensional approximately sparse models in Python.</p>
 <p>Authors: <a href="https://alexanderquispe.github.io/" target="_blank">Alexander Quispe</a> & <a href="https://carlosguevara1.github.io/" target="_blank">Carlos Guevara</a>.</p>
 <p>Source: Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., & Newey, W. (2017). Double/debiased/neyman machine learning of treatment effects. American Economic Review, 107(5), 261-265. <a href="https://www.aeaweb.org/articles?id=10.1257/aer.p20171038" target="_blank">[Check here]</a></p>
 <br>
 
-
-## Robust Difference in difference  [In progress]
-<p>This package implements the estimator of Difference-in-Differences with multiple time periods proposed by Callaway and Sant'Anna (2021) in Python.</p>
-<p>Authors: <a href="https://alexanderquispe.github.io/" target="_blank">Alexander Quispe</a> & <a href="https://carlosguevara1.github.io/" target="_blank">Carlos Guevara</a>.</p>
-<p>Source: Callaway, B., & Sant’Anna, P. H. (2021). Difference-in-differences with multiple time periods. Journal of Econometrics, 225(2), 200-230. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407620303948" target="_blank">[Check here]</a></p>
 
