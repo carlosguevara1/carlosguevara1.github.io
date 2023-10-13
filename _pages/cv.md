@@ -33,7 +33,7 @@ author_profile: true
 
 # Education
 * B.S. in Economics. Pontificia Universidad Católica del Perú (PUCP), 2016 
-* Master Economics (PUCP). Thesis pending. Expected: Dec-2023
+<!---* Master Economics (PUCP). Thesis pending. Expected: Dec-2023-->
 
 # Work experience
 * 2020-2023: Consultant at Inter-American Development Bank
