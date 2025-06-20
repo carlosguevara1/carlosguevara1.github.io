@@ -31,12 +31,16 @@ author_profile: true
 
 <p style="font-size: 1.05em;">For a more detailed version, please download <a href='https://carlosguevara1.github.io/files/CV.pdf' target="_blank">here</a>.</p>
 
+# Interest
+* Macroeconomics, International Economics, Finance, Monetary Economics, Banking, Time Series, Panel Data, Machine Learning.
+
 # Education
-* B.S. in Economics. Pontificia Universidad Católica del Perú (PUCP), 2016 
-<!---* Master Economics (PUCP). Thesis pending. Expected: Dec-2023-->
+* BS Economics (2017)
+* Licenciatura in Economics, with higher honors (2018)
 
 # Work experience
-* 2020-2023: Consultant at Inter-American Development Bank
+* 2024-    : Research Analyst at International Monetary Fund
+* 2020-2023: Research Assitant at Inter-American Development Bank
 * 2019-2020: Data Analyst at Central Bank of Peru
 * 2016-2017: Consultant at Peruvian Institute of Economics
 * 2015: Research Assistant at Pontificia Universidad Católica del Perú
