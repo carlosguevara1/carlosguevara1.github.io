@@ -35,4 +35,4 @@ Beyond economics, I enjoy photography, salsa dancing, international food, and mo
 
 <strong>Research interests: </strong> Macroeconomics, International Economics, Finance, Banking, Applied Econometrics, and Machine Learning
 
-<strong>Contact: </strong> <u>carlosguek@uchicago.edu</u>
+<strong>Contact: </strong> <u>carlosguek@uchicago.edu</u> or <u>carlos.guek@gmail.com</u>
