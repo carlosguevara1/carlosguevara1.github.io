@@ -50,9 +50,3 @@ author_profile: true
 <h1>Working papers</h1>
 <p><a href="https://carlosguevara1.github.io/files/wp1.pdf" target="_blank">A Quantitative Analysis of the Determinants of Fiscal Multiplers and Its Policy Implications</a></p>
 <p>This research examines the impact of public spending on economic activity over time. The findings reveal a decreasing effectiveness of public spending over the last decade and emphasize the importance of controlling public debt levels to enhance its impact. The study confirms changing parameters in the model and demonstrates the robustness of the results through sensitivity analyses.</p>
-
-
-
-<h1>In progress</h1>
-<p> Market and Sovereign Responses to Credit Rating Agencies Announcements in Emerging Markets </p>
-<p> with Kenji Moreno (IMF) and Luigui Butron (WB) </p>
