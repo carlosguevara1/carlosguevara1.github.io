@@ -48,5 +48,9 @@ author_profile: true
 <p> This paper analyzes the impact of loan supply shocks on the real economic activity of Pacific Alliance countries using a TVP-VAR-SV model with sign restrictions. The results show that loan supply shocks have a significant effect on economic activity, similar to aggregate supply and demand shocks. The influence of loan supply shocks varies over time and differs among Pacific Alliance countries. The findings are robust to different specifications and sign restrictions. </p>
 
 <h1>Working papers</h1>
+<p><a href="https://www.imf.org/en/publications/wp/issues/2026/03/20/explaining-cross-country-heterogeneity-in-debt-overhang-thresholds-574858" target="_blank">Explaining Cross-Country Heterogeneity in Debt Overhang Thresholds</a></p>
+<p><em>IMF Working Papers 2026, 051 (2026).</em></p>
+<p>With R. Bhattacharya, A. Goumilevski, M. Lesniak, and F. Lutz</p>
+<br>
 <p><a href="https://carlosguevara1.github.io/files/wp1.pdf" target="_blank">A Quantitative Analysis of the Determinants of Fiscal Multiplers and Its Policy Implications</a></p>
 <p>This research examines the impact of public spending on economic activity over time. The findings reveal a decreasing effectiveness of public spending over the last decade and emphasize the importance of controlling public debt levels to enhance its impact. The study confirms changing parameters in the model and demonstrates the robustness of the results through sensitivity analyses.</p>
