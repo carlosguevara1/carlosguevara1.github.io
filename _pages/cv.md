@@ -48,7 +48,6 @@ author_profile: true
 # Research
 * The Role of Credit Supply Shocks in Pacific Alliance Countries: A TVP-VAR-SV Approach
 * A Quantitative Analysis of the Determinants of Fiscal Multiplers and Its Policy Implications
-* Monetary Policy Interest Rate and Financial Stability: Empirical Evidence for CARD countries
 
 
 # Skills
