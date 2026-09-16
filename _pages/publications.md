@@ -50,9 +50,6 @@ author_profile: true
 <h1>Working papers</h1>
 <p><a href="https://carlosguevara1.github.io/files/wp1.pdf" target="_blank">A Quantitative Analysis of the Determinants of Fiscal Multiplers and Its Policy Implications</a></p>
 <p>This research examines the impact of public spending on economic activity over time. The findings reveal a decreasing effectiveness of public spending over the last decade and emphasize the importance of controlling public debt levels to enhance its impact. The study confirms changing parameters in the model and demonstrates the robustness of the results through sensitivity analyses.</p>
-<br>
-<p><a href="https://carlosguevara1.github.io/files/wp2.pdf" target="_blank">Monetary Policy Interest Rate and Financial Stability: Empirical Evidence for CARD countries</a></p>
-<p>This study investigates the connection between monetary policy rate and financial stability in CARD countries. The findings indicate a moderate correlation between the block countries, but financial cycles do not syncronize with business cycles. The analysis suggests that monetary shocks have an impact on financial stability, providing the monetary authorities in the block with the ability to adjust interest rates when necessary to affect financial conditions.</p>
 
 
 
