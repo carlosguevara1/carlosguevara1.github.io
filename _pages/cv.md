@@ -35,11 +35,12 @@ author_profile: true
 * Macroeconomics, International Economics, Finance, Monetary Economics, Banking, Time Series, Panel Data, Machine Learning.
 
 # Education
+* Master of Arts in Economics (MAE), University of Chicago (2026- )
 * BS Economics (2017)
 * Licenciatura in Economics, with higher honors (2018)
 
 # Work experience
-* 2024-    : Research Analyst at International Monetary Fund
+* 2024-2026: Research Analyst at International Monetary Fund
 * 2020-2023: Research Assitant at Inter-American Development Bank
 * 2019-2020: Data Analyst at Central Bank of Peru
 * 2016-2017: Consultant at Peruvian Institute of Economics
