@@ -51,6 +51,7 @@ author_profile: true
 <p><a href="https://www.imf.org/en/publications/wp/issues/2026/03/20/explaining-cross-country-heterogeneity-in-debt-overhang-thresholds-574858" target="_blank">Explaining Cross-Country Heterogeneity in Debt Overhang Thresholds</a></p>
 <p><em>IMF Working Papers 2026, 051 (2026).</em></p>
 <p>With R. Bhattacharya, A. Goumilevski, M. Lesniak, and F. Lutz</p>
+<p>This paper estimates country-specific public debt overhang thresholds for 105 countries using a Kalman Filter approach within a standard growth model. The results reveal substantial heterogeneity across countries and country groups, while the estimated thresholds vary relatively little over time. The analysis shows that stronger repayment records, better institutions and governance, the composition of public debt, and deeper financial markets are associated with higher debt overhang thresholds.</p>
 <br>
 <p><a href="https://carlosguevara1.github.io/files/wp1.pdf" target="_blank">A Quantitative Analysis of the Determinants of Fiscal Multiplers and Its Policy Implications</a></p>
 <p>This research examines the impact of public spending on economic activity over time. The findings reveal a decreasing effectiveness of public spending over the last decade and emphasize the importance of controlling public debt levels to enhance its impact. The study confirms changing parameters in the model and demonstrates the robustness of the results through sensitivity analyses.</p>
