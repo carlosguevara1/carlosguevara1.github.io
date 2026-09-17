@@ -12,8 +12,6 @@ author_profile: true
   </style>
 </head>
 
-
-
 <style>
   p {
     line-height: 0.5;
@@ -22,59 +20,36 @@ author_profile: true
     line-height: 0.5;
   }
   * {
-        line-height: 1; /* Adjust the value as desired */
-    } 
+    line-height: 1;
+  }
 </style>
-
 
 # CV
 
-<p style="font-size: 1.05em;">For a more detailed version, please download <a href='https://carlosguevara1.github.io/files/CV.pdf' target="_blank">here</a>.</p>
+<p style="font-size: 1.05em;">Download my full CV <a href='https://carlosguevara1.github.io/files/CV.pdf' target="_blank">here</a>.</p>
 
-# Interest
-* Macroeconomics, International Economics, Finance, Monetary Economics, Banking, Time Series, Panel Data, Machine Learning.
+# Research interests
+* Macroeconomics, International Economics, Finance, Banking, Applied Econometrics, Machine Learning.
 
 # Education
-* Master of Arts in Economics (MAE), University of Chicago (2026- )
-* BS Economics (2017)
-* Licenciatura in Economics, with higher honors (2018)
+* 2026- : Master of Arts in Economics (MAE), University of Chicago
+* 2018: Licenciatura in Economics, with higher honors, Pontificia Universidad Católica del Perú
+* 2017: BS in Economics, Pontificia Universidad Católica del Perú
 
 # Work experience
-* 2024-2026: Research Analyst at International Monetary Fund
-* 2020-2023: Research Assitant at Inter-American Development Bank
-* 2019-2020: Data Analyst at Central Bank of Peru
-* 2016-2017: Consultant at Peruvian Institute of Economics
-* 2015: Research Assistant at Pontificia Universidad Católica del Perú
-  
-# Research
-* The Role of Credit Supply Shocks in Pacific Alliance Countries: A TVP-VAR-SV Approach
-* A Quantitative Analysis of the Determinants of Fiscal Multiplers and Its Policy Implications
+* 2024-2026: Research Analyst, International Monetary Fund
+* 2020-2023: Research Assistant, Inter-American Development Bank
+* 2019-2020: Data Analyst, Central Bank of Peru
+* 2016-2017: Consultant, Peruvian Institute of Economics
+* 2015: Research Assistant, Pontificia Universidad Católica del Perú
 
+# Research
+* Explaining Cross-Country Heterogeneity in Debt Overhang Thresholds (IMF Working Paper 2026/051)
+* The Role of Credit Supply Shocks in Pacific Alliance Countries: A TVP-VAR-SV Approach (The North American Journal of Economics and Finance, 2020)
+* A Quantitative Analysis of the Determinants of Fiscal Multipliers and Its Policy Implications (working paper; solo-authored)
+
+# Research software
+* <a href="https://github.com/d2cml-ai/csdid" target="_blank">csdid</a>: Python implementation of Callaway and Sant'Anna's Difference-in-Differences estimator with multiple time periods; 400,000+ downloads.
 
 # Skills
-<p>Stata | Python | Matlab | R | Eviews | Excel-VBA | SQL | C++ .</p>
-
-<!---{:.section2}-->
-
-<!---
-<style>
-.skills-list {
-  font-size: 15px;
-}
-</style>
-
-
-<p style="font-size: 18px; font-weight: bold;">Skills</p>
-
-<ul class="skills-list">
-  <li>Matlab - Advanced</li>
-  <li>Stata - Advanced</li>
-  <li>Python - Advanced</li>
-  <li>Excel/VBA - Advanced</li>
-  <li>Eviews - Advanced</li>
-  <li>R - Intermediate</li>
-  <li>SQL - Intermediate</li>
-  <li>Julia - Basic</li>
-  <li>C++ - Basic</li>
-</ul>
--->
+<p>Stata | Python | R | MATLAB | EViews | Excel/VBA | SQL | C++</p>
