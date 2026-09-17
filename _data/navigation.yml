@@ -1,13 +1,10 @@
-# main links links
+# main links
 main:
   - title: "CV"
     url: /cv/
 
   - title: "Research"
-    url: /research/         
- 
-  - title: "Econometric Packages"
-    url: /econometric_packages/      
-    
+    url: /research/
 
-    
+  - title: "Research Software"
+    url: /econometric_packages/
