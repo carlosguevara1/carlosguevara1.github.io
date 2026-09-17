@@ -28,9 +28,6 @@ author_profile: true
 
 <p style="font-size: 1.05em;">Download my full CV <a href='https://carlosguevara1.github.io/files/CV.pdf' target="_blank">here</a>.</p>
 
-# Research interests
-* Macroeconomics, International Economics, Finance, Banking, Applied Econometrics, Machine Learning.
-
 # Education
 * 2026- : Master of Arts in Economics (MAE), University of Chicago
 * 2018: Licenciatura in Economics, with higher honors, Pontificia Universidad Católica del Perú
