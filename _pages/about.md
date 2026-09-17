@@ -27,6 +27,4 @@ I was born in Cusco and grew up in Peru, where I studied Economics at the <a hre
 
 Beyond economics, I enjoy photography, salsa dancing, international food, and movies. I am also endlessly inspired by the work ethic of <a href="https://www.youtube.com/watch?v=6odPP0zAdFQ&ab_channel=Footballer%27sStories" target="_blank">Cristiano Ronaldo</a>, the economics of <a href="https://www.nobelprize.org/uploads/2018/06/samuelson-lecture.pdf" target="_blank">Paul Samuelson</a>, and the creativity of <a href="https://www.paradigmpress.org/as/article/view/447" target="_blank">Quentin Tarantino</a>.
 
-<strong>Research interests:</strong> Macroeconomics, International Economics, Finance, Banking, Applied Econometrics, and Machine Learning
-
 <strong>Contact:</strong> <a href="mailto:carlosguek@uchicago.edu">carlosguek@uchicago.edu</a> or <a href="mailto:carlos.guek@gmail.com">carlos.guek@gmail.com</a>
