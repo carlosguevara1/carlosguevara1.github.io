@@ -28,7 +28,7 @@ author_profile: true
         margin-left: auto;
         margin-right: auto;
         padding-left: 0;
-<p><a href="https://carlosguevara1.github.io/files/wp1.pdf" target="_blank">A Quantitative Analysis of Time-Varying Fiscal Multipliers and Their Determinants</a></p>
+
         grid-template-columns: repeat(20, 4fr);
         grid-gap: 20px;
     }
@@ -52,6 +52,7 @@ author_profile: true
 <p>With R. Bhattacharya, A. Goumilevski, M. Lesniak, and F. Lutz</p>
 <p>This paper estimates country-specific public debt overhang thresholds for 105 countries using a Kalman filter approach within a standard growth model. The results reveal substantial heterogeneity across countries and country groups, while estimated thresholds vary relatively little over time. Stronger repayment records, better institutions and governance, the composition of public debt, and deeper financial markets are associated with higher debt overhang thresholds.</p>
 <br>
+<p><a href="https://carlosguevara1.github.io/files/wp1.pdf" target="_blank">A Quantitative Analysis of Time-Varying Fiscal Multipliers and Their Determinants</a></p>
 
 <p><em>Solo-authored working paper.</em></p>
 <p>This paper examines how the impact of public spending on economic activity changes over time. The results point to a decline in the effectiveness of public spending over the last decade and highlight the role of public debt in shaping fiscal multipliers. The analysis allows for time-varying parameters and evaluates the robustness of the results across alternative specifications.</p>
